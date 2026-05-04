@@ -68,9 +68,6 @@ Soy tecnologo en **analista de desarrollo de software** con experiencia en la re
 
 ---
 
-
-## Contact
-
 <p align="center">
   <a href="mailto:a.narvaezoliveranarvaez">Email</a> 
 </p>

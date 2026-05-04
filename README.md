@@ -29,34 +29,26 @@ Soy tecnologo en **analista de desarrollo de software** con experiencia en la re
 - Adaptación a entornos de desarrollo modernos  
 
 ---
-
 ## Technical Stack
 
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,bootstrap,tailwind&theme=dark" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,django&theme=dark" />
-</p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux" />
-</p>
-
----
+<table align="center">
+  <tr>
+    <td align="center" width="300"><strong>Frontend</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,bootstrap&theme=dark" />
+    </td>
+    <td align="center" width="300"><strong>Backend</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,django&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Databases</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
+    </td>
+    <td align="center"><strong>Tools & Platforms</strong><br><br>
+      <img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 ## Current Focus
 
@@ -71,3 +63,4 @@ Soy tecnologo en **analista de desarrollo de software** con experiencia en la re
 <p align="center">
   <a href="mailto:a.narvaezoliveranarvaez">Email</a> 
 </p>
+

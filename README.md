@@ -1,67 +1,76 @@
 
-# Bienvenido a Mi Perfil de GitHub.
+<h1 align="center">Alejandro Olivera Narvaez</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Software_Developer-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Systems_Analysis-0d1117?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Collaborative_Development-0d1117?style=for-the-badge" />
+</p>
+
+<p align="center">
+  Desarrollar soluciones escalables y colaborar en ecosistemas de software modernos.
+</p>
+
+---
+
+## Profile
 
 Soy tecnologo en **analista de desarrollo de software** con experiencia en la recolección y análisis de requisitos, diseño de sistemas y gestión de proyectos. Mi enfoque se centra en transformar las necesidades del cliente en soluciones tecnológicas eficaces, utilizando metodologías ágiles y tradicionales para garantizar entregas de calidad. Cuento con habilidades en análisis de requisitos, modelado de sistemas, gestión de proyectos y comunicación efectiva. Mi objetivo es entregar soluciones robustas, alineadas con los objetivos del negocio y las expectativas del usuario.
 
 ---
 
-## 😁 **Sobre mí**
+## Collaboration & Development Approach
 
-* 🎓 Estudiante de **Análisis y Desarrollo de Software** con hambre de aprender y mejorar.
-* 💻 Desarrollo proyectos web utilizando tecnologías modernas.
-* ⚙️ Experto en la recolección y análisis de requisitos, diseño de sistemas y documentación de proyectos.
-* 🚀 ¡Siempre buscando cómo hacer que las cosas funcionen mejor y más rápido!
-* 🧪 Me interesa la **Inteligencia Artificial** y el **Prompt Engineering** (aunque sigo aprendiendo).
+- Desarrollo basado en control de versiones (Git / GitHub)  
+- Trabajo colaborativo mediante pull requests y code reviews  
+- Uso de metodologías ágiles (Scrum)  
+- Enfoque en código limpio, mantenible y documentado  
+- Integración de APIs y servicios externos  
+- Adaptación a entornos de desarrollo modernos  
 
 ---
 
-## 🧰 **Tecnologías y herramientas**
+## Technical Stack
 
-### 💻 **Lenguajes y Frameworks:**
+### Frontend
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,bootstrap,tailwind&theme=dark" />
 </p>
 
-### 🗄️ **Bases de Datos:**
+### Backend
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,django&theme=dark" />
 </p>
 
-### 🔧 **Control de Versiones:**
+### Databases
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,linux" />
 </p>
 
 ---
 
-## 📌 **Áreas de Interés**
+## Current Focus
 
-* 🌐 **Desarrollo Web** (Frontend y Backend)
-* 📈 **Ingeniería de Requerimientos** y análisis de sistemas.
-* ⚡ **Frameworks de Desarrollo Rápido** (¡me encanta la velocidad!).
-* 🤖 **Inteligencia Artificial** y desarrollo de **Prompts**.
-* 🔄 **Automatización de Tareas** para optimizar procesos.
-
----
-
-## 📫 **Contacto**
-
-Si deseas colaborar o ponerte en contacto, puedes escribirme por aquí o vía correo electrónico:
-**a.narvaezoliveranarvaez** (¡no dudes en escribirme!)
+- Arquitectura de aplicaciones web modernas  
+- Desarrollo de APIs REST  
+- Integración de inteligencia artificial en aplicaciones  
+- Optimización de rendimiento  
+- Automatización de procesos  
 
 ---
 
-> *“La innovación comienza con una idea, pero crece con acción. Cada línea de código es un paso hacia la solución.”*
 
+## Contact
 
-
-
+<p align="center">
+  <a href="mailto:a.narvaezoliveranarvaez">Email</a> 
+</p>
